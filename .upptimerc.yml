@@ -22,7 +22,7 @@ status-website:
   # cname: status.fugapedia.xyz
   # Uncomment the following line if you don't have a custom domain and add your repo name
   baseUrl: /fugapediastatus
-  logoUrl: https://fugapedia.xyz/images/onlyFUGAPEDIA.png
+  logoUrl: https://fugapedia.xyz/logo.svg
   name: Статус сети
   introTitle: ""
   introMessage: Независимый статус сети в **реальном времени**, работающий на [открытом репозитории](https://github.com/upptime/upptime). 
