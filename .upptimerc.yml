@@ -4,11 +4,18 @@ repo: fugapediastatus # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Fugapedia Books
+  - name: Fugapedia Core
     url: https://fugapedia.xyz
     icon: https://fugapedia.xyz/favicon.ico
   - name: Fugapedia Wiki
     url: https://wiki.fugapedia.xyz
+    icon: https://fugapedia.xyz/favicon.ico
+  - name: Fugapedia Books
+    url: https://books.fugapedia.xyz
+    icon: https://fugapedia.xyz/favicon.ico
+  - name: Fugapedia Books (Old)
+    url: https://fugapedia.xyz/ebooks/
+    icon: https://fugapedia.xyz/favicon.ico
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
