@@ -58,17 +58,17 @@
     "url": "https://fugapedia.xyz/ebooks/",
     "icon": "https://fugapedia.xyz/favicon.ico",
     "slug": "fugapedia-books-old",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 159,
-    "timeDay": 150,
-    "timeWeek": 153,
-    "timeMonth": 159,
-    "timeYear": 159,
+    "time": 161,
+    "timeDay": 164,
+    "timeWeek": 157,
+    "timeMonth": 161,
+    "timeYear": 161,
     "dailyMinutesDown": {}
   }
 ]
