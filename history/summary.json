@@ -4,16 +4,16 @@
     "url": "https://fugapedia.xyz",
     "icon": "https://fugapedia.xyz/favicon.ico",
     "slug": "fugapedia-core",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 791,
-    "timeDay": 58,
-    "timeWeek": 804,
-    "timeMonth": 645,
+    "timeDay": 480,
+    "timeWeek": 816,
+    "timeMonth": 649,
     "timeYear": 791,
     "dailyMinutesDown": {}
   },
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 1332,
     "timeDay": 1009,
-    "timeWeek": 1141,
+    "timeWeek": 1150,
     "timeMonth": 1110,
     "timeYear": 1332,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 1019,
     "timeDay": 669,
-    "timeWeek": 723,
+    "timeWeek": 727,
     "timeMonth": 844,
     "timeYear": 1019,
     "dailyMinutesDown": {}
@@ -67,7 +67,7 @@
     "time": 146,
     "timeDay": 9,
     "timeWeek": 70,
-    "timeMonth": 135,
+    "timeMonth": 134,
     "timeYear": 146,
     "dailyMinutesDown": {}
   }
