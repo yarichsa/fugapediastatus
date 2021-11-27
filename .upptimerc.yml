@@ -19,7 +19,7 @@ status-website:
   introMessage: Независимый статус сети в **реальном времени**, работающий на [открытом репозитории](https://github.com/upptime/upptime). 
   navbar:
     - title: Назад 
-      href: https://fugapedia.xyz/menu.html
+      href: https://fugapedia.xyz
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
