@@ -4,17 +4,17 @@
     "url": "https://fugapedia.xyz",
     "icon": "https://fugapedia.xyz/yarich/icon.png",
     "slug": "fugapedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 487,
-    "timeDay": 651,
-    "timeWeek": 896,
-    "timeMonth": 435,
-    "timeYear": 487,
+    "time": 480,
+    "timeDay": 385,
+    "timeWeek": 812,
+    "timeMonth": 416,
+    "timeYear": 480,
     "dailyMinutesDown": {}
   }
 ]
